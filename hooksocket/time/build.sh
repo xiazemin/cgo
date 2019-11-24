@@ -1,0 +1,1 @@
+gcc -flat_namespace -dynamiclib -current_version 1.0 time.o -o libTime.dylib
